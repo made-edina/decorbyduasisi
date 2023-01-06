@@ -1,0 +1,189 @@
+html {
+    margin-top: 0;
+}
+
+body {
+    background-color: #fffdf8;
+}
+
+.probootstrap-navbar {
+    background-color:  rgba(237,230,219);
+}
+
+.probootstrap-navbar .navbar-nav>li>a {
+    color: rgba(0,0,0,.7);
+}
+
+.probootstrap-navbar .navbar-nav>li>a:hover {
+    color: darkgoldenrod;
+}
+
+.probootstrap-navbar.scrolled {
+    background-color:  rgba(237,230,219);
+}
+
+.probootstrap-footer {
+    background-color: rgba(237,230,219);
+    color: rgba(0,0,0,.7);
+    padding-top: 2em;
+    padding-bottom: 0.5em;
+}
+
+.navbar-brand img {
+    height: 50px;
+    margin-top: -8px;
+}
+
+.probootstrap-navbar .dropdown-menu {
+    background-color: rgba(237,230,219);
+}
+
+.probootstrap-navbar .dropdown>.dropdown-menu>li>a {
+    color: rgba(0,0,0,.7);
+}
+
+.probootstrap-navbar .dropdown>.dropdown-menu>li:hover>a {
+    color:darkgoldenrod;
+}
+
+.probootstrap-footer-social i {
+    font-size: 30px;
+    color: rgba(0,0,0,.7);
+}
+
+.owl-carousel img {
+    max-height: 400px;
+}
+
+.owl-theme .owl-controls .owl-nav [class*=owl-] i {
+    background: none !important; 
+}
+
+.owl-theme .owl-controls .owl-nav [class*=owl-] i:hover {
+    background: rgba(237,230,219) !important; 
+}
+
+.satuan p {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-family: Bellefair,serif;
+    color: #181920;;
+}
+
+.satuan h3 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+
+#pawiwahan.flexslider, #pawiwahan.flexslider .slides>li, .slider-height {
+    height: 450px;
+}
+
+#wedding.flexslider, #wedding.flexslider .slides>li, .slider-height {
+    height: 650px;
+}
+
+.free {
+    color: red;
+    font-weight: 800;
+    font-size: large;
+}
+
+.price {
+    font-weight: 500;
+}
+
+.ketentuan p {
+    margin: 0;
+
+}
+
+.button-59 {
+  align-items: center;
+  background-color: #fff;
+  border: 2px solid rgba(237,230,219);
+  /* border-radius: 5px; */
+  box-sizing: border-box;
+  color: #000;
+  cursor: pointer;
+  display: inline-flex;
+  fill: #000;
+  font-family: Bellefair,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: -.8px;
+  line-height: 24px;
+  min-width: 140px;
+  outline: 0;
+  padding: 0 17px;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-59:focus {
+  color: #171e29;
+}
+
+.button-59:hover {
+  /* border-color: darkgoldenrod; */
+  /* color: rgba(184, 135, 11, 0.852); */
+  background-color: rgb(232, 217, 194);
+  fill: darkgoldenrod;
+}
+
+.button-59:active {
+  border-color: darkgoldenrod;
+  color: darkgoldenrod;
+  fill: darkgoldenrod;
+}
+
+@media (min-width: 768px) {
+  .button-59 {
+    min-width: 170px;
+  }
+}
+
+.bronze, .silver, .gold {
+    background-color: #fffdf8;
+    padding: 30px 30px 30px 15px;
+    border-radius: 10px;
+}
+
+.bronze {
+    border: 1px solid #CD7F32;
+}
+
+.silver {
+    border: 1px solid rgb(192,192,192);
+}
+
+.gold {
+    border: 1px solid #D4AF37;
+}
+
+
+.sangjit li {
+    list-style: inside;
+    margin-left: -40px;
+}
+
+a, #about {
+    color: #181920;
+}
+
+a:hover, a:active {
+    color: darkgoldenrod;
+}
+
+.image {
+    height: 210px;
+}
